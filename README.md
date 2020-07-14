@@ -12,4 +12,4 @@ Step 4: Press Shift+F9 or Press on "Run on AVD".
 
 Here is your Screen.
 
-// I use Google Pixel 3 for code testing. Make sure that your AVD has minimum Android 6.0.
+// I use Google Pixel 3 for code testing. Make sure that your AVD has minimum Android 6.0. 
